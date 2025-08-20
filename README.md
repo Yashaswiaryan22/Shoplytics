@@ -146,12 +146,11 @@ We welcome contributions! Whether you're adding new queries, improving data proc
 ## 📚 Resources
 
 - **Dataset Source**: [Kaggle E-Commerce Dataset](https://www.kaggle.com/datasets/devarajv88/target-dataset)
-- **Documentation**: Check out our [Wiki](link-to-wiki) for detailed query explanations
 - **Tutorials**: Step-by-step guides for each analysis type
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](License.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](License) file for details.
 
 ## 🌟 Star This Repo!
 
